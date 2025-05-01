@@ -17,7 +17,6 @@ public class Product {
   private Long quantity;     //상품수량
   private Long price;       //상품가격
 
-
 }
 
 
